@@ -1,4 +1,6 @@
 # note-taker-with-express
+Live URL:https://mysterious-depths-83071.herokuapp.com/
+Repo URL:https://github.com/UofTL/note-taker-with-express.git
 
  This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
