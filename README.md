@@ -4,6 +4,7 @@
 
   * [Installation](#install)
   * [Usage](#usage)
+  * ![markdown-preview-image](./demo.gif)
 ## User Story
 
 ```
