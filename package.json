@@ -1,0 +1,32 @@
+{
+  "name": "note-taker-with-express",
+  "version": "1.0.0",
+  "description": "We are using express with Heroku for our server",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UofTL/note-taker-with-express.git"
+  },
+  "keywords": [
+    "Note-Taker",
+    "Node.js",
+    "Express",
+    "Node-Module",
+    "Heroku",
+    "API",
+    "Server"
+  ],
+  "author": "Eleonore Caclard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UofTL/note-taker-with-express/issues"
+  },
+  "homepage": "https://github.com/UofTL/note-taker-with-express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
