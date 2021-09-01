@@ -7,7 +7,7 @@ const fs = require("fs");
 
 // define express server with port
 const app = express();
-const PORT = process.env.PORT || 9001;
+const PORT = process.env.PORT || 5001;
 
 let notesData = [];
 
