@@ -3,7 +3,6 @@
  This application can be used to write and save notes. This application will use an Express.js back end and will save and retrieve note data from a JSON file.
 
   * [Installation](#install)
-  * [Tests](#tests)
   * [Usage](#usage)
 ## User Story
 
@@ -58,5 +57,5 @@ You will be prompted with questions to fill out employee information. Each type 
 
 ## Screen shots
 
-![Shot-1](add screenshot later)
-![Shot-2](add screenshot later)
+![Usage](https://user-images.githubusercontent.com/84641285/131750187-534c28de-224d-466a-92a0-699b9a0696aa.png)
+![Live](https://user-images.githubusercontent.com/84641285/131750028-6cba5bb3-7389-4e8f-96aa-fb80455d4004.png)
